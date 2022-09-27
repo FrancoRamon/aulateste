@@ -1,0 +1,14 @@
+C:\Users\Ramon\Desktop\Projetos - C#\FixaxionException\FixaxionException\bin\Debug\netcoreapp3.1\FixationException.exe
+C:\Users\Ramon\Desktop\Projetos - C#\FixaxionException\FixaxionException\bin\Debug\netcoreapp3.1\FixationException.deps.json
+C:\Users\Ramon\Desktop\Projetos - C#\FixaxionException\FixaxionException\bin\Debug\netcoreapp3.1\FixationException.runtimeconfig.json
+C:\Users\Ramon\Desktop\Projetos - C#\FixaxionException\FixaxionException\bin\Debug\netcoreapp3.1\FixationException.runtimeconfig.dev.json
+C:\Users\Ramon\Desktop\Projetos - C#\FixaxionException\FixaxionException\bin\Debug\netcoreapp3.1\FixationException.dll
+C:\Users\Ramon\Desktop\Projetos - C#\FixaxionException\FixaxionException\bin\Debug\netcoreapp3.1\FixationException.pdb
+C:\Users\Ramon\Desktop\Projetos - C#\FixaxionException\FixaxionException\obj\Debug\netcoreapp3.1\FixationException.csproj.AssemblyReference.cache
+C:\Users\Ramon\Desktop\Projetos - C#\FixaxionException\FixaxionException\obj\Debug\netcoreapp3.1\FixationException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramon\Desktop\Projetos - C#\FixaxionException\FixaxionException\obj\Debug\netcoreapp3.1\FixationException.AssemblyInfoInputs.cache
+C:\Users\Ramon\Desktop\Projetos - C#\FixaxionException\FixaxionException\obj\Debug\netcoreapp3.1\FixationException.AssemblyInfo.cs
+C:\Users\Ramon\Desktop\Projetos - C#\FixaxionException\FixaxionException\obj\Debug\netcoreapp3.1\FixationException.csproj.CoreCompileInputs.cache
+C:\Users\Ramon\Desktop\Projetos - C#\FixaxionException\FixaxionException\obj\Debug\netcoreapp3.1\FixationException.dll
+C:\Users\Ramon\Desktop\Projetos - C#\FixaxionException\FixaxionException\obj\Debug\netcoreapp3.1\FixationException.pdb
+C:\Users\Ramon\Desktop\Projetos - C#\FixaxionException\FixaxionException\obj\Debug\netcoreapp3.1\FixationException.genruntimeconfig.cache
